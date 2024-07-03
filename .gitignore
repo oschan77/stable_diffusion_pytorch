@@ -1,0 +1,4 @@
+data/tokenizer_merges.txt
+data/tokenizer_vocab.json
+data/v1-5-pruned-emaonly.ckpt
+data/v1-5-pruned.ckpt
